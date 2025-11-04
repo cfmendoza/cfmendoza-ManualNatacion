@@ -1,40 +1,34 @@
----
-title: "Dificultades por Estilos de Nado"
-type: capitulo  
-order: 4
----
-
 # 🏊 Capítulo III: Dificultades Específicas en los Estilos de Nado
-
----
+<div class="portada-seccion">
+  <img src="./assets/imagenes/dif.png" alt="Natación universitaria">
+</div>
 
 ## 3.1 Estilo Crol
 
 ### ⚙️ Características Técnicas
 <div class="contenido-didactico elemento-didactico">
-- **Posición:** Decúbito prono con inclinación ventral  
-- **Alineación:** Cuerpo ligeramente inclinado (cintura escapular elevada)  
-- **Mirada:** 45° hacia adelante, agua a altura del cabello  
-- **Rolido:** Rotación longitudinal de 30°-45°
+ <strong>Posición:</strong> Decúbito prono con inclinación ventral  
+ <strong>Alineación:</strong> Cuerpo ligeramente inclinado (cintura escapular elevada)  
+ <strong>Mirada:</strong> 45° hacia adelante, agua a altura del cabello  
+ <strong>Rolido:</strong> Rotación longitudinal de 30°-45°
 </div>
 
 ### 🔍 Principales Dificultades
 <div class="paso-a-paso elemento-didactico">
 <strong>Motrices:</strong>  
-- Alineación corporal deficiente  
-- Movimientos descoordinados en patada  
-- Rigidez en hombros o caderas  
-
+ Alineación corporal deficiente  
+ Movimientos descoordinados en patada  
+ Rigidez en hombros o caderas  
 <strong>Técnicas:</strong>  
-- Errores en entrada y salida de mano  
-- Brazadas poco profundas o asimétricas  
-- Fallas en rotación del cuerpo  
-- Respiración unilateral excesiva  
+ Errores en entrada y salida de mano  
+ Brazadas poco profundas o asimétricas  
+ Fallas en rotación del cuerpo  
+ Respiración unilateral excesiva  
 
 <strong>Psicológicas:</strong>  
-- Ansiedad al coordinar respiración  
-- Sensación de falta de aire  
-- Frustración y pérdida de confianza
+ Ansiedad al coordinar respiración  
+ Sensación de falta de aire  
+ Frustración y pérdida de confianza
 </div>
 
 ### 📋 Tabla de Errores - Crol
@@ -78,26 +72,26 @@ order: 4
 
 ### ⚙️ Características Técnicas
 <div class="contenido-didactico elemento-didactico">
-- **Posición:** Decúbito prono, movimientos simétricos  
-- **Fases de brazada:** Apertura → Barrido propulsivo → Recobro  
-- **Patada:** "Patada de rana" en 3 fases  
-- **Respiración:** Coincide con final de barrido de brazos
+<strong>Posición:</strong> Decúbito prono, movimientos simétricos  
+<strong>Fases de brazada:</strong> Apertura → Barrido propulsivo → Recobro  
+<strong>Patada:</strong> "Patada de rana" en 3 fases  
+<strong>Respiración:</strong> Coincide con final de barrido de brazos
 </div>
 
 ### 🔍 Dificultades Principales
 <div class="paso-a-paso elemento-didactico">
 <strong>Motrices:</strong>  
-- Limitaciones flexibilidad tobillos y caderas  
-- Dificultad ejecución patada de rana  
+ Limitaciones flexibilidad tobillos y caderas  
+ Dificultad ejecución patada de rana  
 
 <strong>Técnicas:</strong>  
-- Errores amplitud de brazada  
-- Respiración mal sincronizada  
-- Elevación excesiva del tronco  
+ Errores amplitud de brazada  
+ Respiración mal sincronizada  
+ Elevación excesiva del tronco  
 
 <strong>Psicológicas:</strong>  
-- Frustración por lentitud de progresos  
-- Desmotivación por alta exigencia técnica
+ Frustración por lentitud de progresos  
+ Desmotivación por alta exigencia técnica
 </div>
 
 ---
@@ -106,26 +100,26 @@ order: 4
 
 ### ⚙️ Características Técnicas
 <div class="contenido-didactico elemento-didactico">
-- **Posición:** Decúbito supino, mirada al techo  
-- **Orientación:** Sin referencia visual directa al frente  
-- **Fases de brazada:** Entrada → Agarre → Barrido → Recobro  
-- **Respiración:** Libre y rítmica
+ <strong>Posición:</strong> Decúbito supino, mirada al techo  
+ <strong>Orientación:</strong> Sin referencia visual directa al frente  
+ <strong>Fases de brazada:</strong> Entrada → Agarre → Barrido → Recobro  
+ <strong>Respiración:</strong> Libre y rítmica
 </div>
 
 ### 🔍 Dificultades Comunes
 <div class="paso-a-paso elemento-didactico">
 <strong>Motrices:</strong>  
-- Descoordinación brazada-patada  
-- Desequilibrios y desviaciones laterales  
+ Descoordinación brazada-patada  
+ Desequilibrios y desviaciones laterales  
 
 <strong>Técnicas:</strong>  
-- Hundimiento de caderas  
-- Flexión excesiva de rodillas  
-- Falta de rotación del tronco  
+ Hundimiento de caderas  
+ Flexión excesiva de rodillas  
+ Falta de rotación del tronco  
 
 <strong>Psicológicas:</strong>  
-- Inseguridad al no ver dirección  
-- Ansiedad por golpear pared
+ Inseguridad al no ver dirección  
+ Ansiedad por golpear pared
 </div>
 
 ---
@@ -134,26 +128,26 @@ order: 4
 
 ### ⚙️ Características Técnicas
 <div class="contenido-didactico elemento-didactico">
-- **Movimiento:** Simultáneo y simétrico de brazos  
-- **Patada:** "Batido de delfín" ondulatorio  
-- **Coordinación:** 2 patadas por ciclo de brazada  
-- **Respiración:** Frontal o lateral coordinada
+ <strong>Movimiento:</strong> Simultáneo y simétrico de brazos  
+ <strong>Patada:</strong> "Batido de delfín" ondulatorio  
+ <strong>Coordinación:</strong> 2 patadas por ciclo de brazada  
+ <strong>Respiración:</strong> Frontal o lateral coordinada
 </div>
 
 ### 🔍 Principales Dificultades
 <div class="paso-a-paso elemento-didactico">
 <strong>Motrices:</strong>  
-- Rigidez del tronco  
-- Falta fluidez movimiento ondulatorio  
+ Rigidez del tronco  
+ Falta fluidez movimiento ondulatorio  
 
 <strong>Técnicas:</strong>  
-- Desincronización batidos-brazada  
-- Errores en recobro aéreo  
-- Respiración tardía  
+ Desincronización batidos-brazada  
+ Errores en recobro aéreo  
+ Respiración tardía  
 
 <strong>Psicológicas:</strong>  
-- Percepción de agotamiento  
-- Frustración por complejidad
+ Percepción de agotamiento  
+ Frustración por complejidad
 </div>
 
 ---
@@ -162,22 +156,22 @@ order: 4
 
 ### 🌊 Experiencias Previas Negativas
 <div class="contenido-didactico elemento-didactico">
-- Episodios de ahogamiento o susto  
-- Miedo a la profundidad  
-- Inmersiones forzadas en infancia
+ Episodios de ahogamiento o susto  
+ Miedo a la profundidad  
+ Inmersiones forzadas en infancia
 </div>
 
 ### ⚡ Consecuencias Emocionales
 <div class="note elemento-didactico">
-- Bloqueos emocionales que ralentizan aprendizaje  
-- Respuestas fisiológicas de ansiedad  
-- Interferencia con control respiratorio y flotación
+ Bloqueos emocionales que ralentizan aprendizaje  
+ Respuestas fisiológicas de ansiedad  
+ Interferencia con control respiratorio y flotación
 </div>
 
 ### 🎯 Intervención Pedagógica Recomendada
 <div class="paso-a-paso elemento-didactico">
-- Ambiente de seguridad y confianza  
-- Progresión gradual y adaptativa  
-- Actividades lúdicas de familiarización  
-- Priorización de confianza sobre técnica inicial
+ Ambiente de seguridad y confianza  
+ Progresión gradual y adaptativa  
+ Actividades lúdicas de familiarización  
+ Priorización de confianza sobre técnica inicial
 </div>

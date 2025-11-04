@@ -26,3 +26,7 @@ type: portada
 ---
 
 > 💡 *Material didáctico especializado para entrenadores y docentes de natación*
+
+<div class="portada-seccion">
+  <img src="./assets/imagenes/port.jpg" alt="Natación universitaria">
+</div>

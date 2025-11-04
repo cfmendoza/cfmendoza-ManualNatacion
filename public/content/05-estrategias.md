@@ -1,10 +1,7 @@
----
-title: "Estrategias de Intervención"
-type: capitulo
-order: 5
----
-
 # Capítulo IV: Estrategias de Intervención y Enseñanza
+<div class="portada-seccion">
+  <img src="./assets/imagenes/estra.png" alt="Natación universitaria">
+</div>
 
 ## Metodologías para Superar Dificultades
 

@@ -517,6 +517,154 @@ body, h1, h2, h3, div, table {
   }
 }
 
+/* =====================================
+👣 FOOTER - UNA SOLA LÍNEA
+===================================== */
 
+.footer {
+  background: linear-gradient(135deg, #2c3e50, #34495e);
+  color: white;
+  padding: 1.5rem 0;
+  margin-top: auto;
+  border-top: 3px solid #3498db;
+  box-shadow: 0 -5px 20px rgba(0,0,0,0.2);
+}
 
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: nowrap; /* Evita que se rompa en varias líneas */
+  gap: 2rem;
+}
 
+.footer-section {
+  flex: 1;
+  text-align: center;
+  min-width: 0; /* Permite que se ajuste al contenido */
+}
+
+.footer-section p {
+  margin: 0.3rem 0;
+  line-height: 1.4;
+  font-size: 0.85rem;
+  white-space: nowrap; /* Evita saltos de línea */
+}
+
+.copyright {
+  color: #bdc3c7;
+  font-size: 0.8rem !important;
+}
+
+.credits {
+  color: #ecf0f1;
+  font-weight: 500;
+  font-size: 0.85rem !important;
+}
+
+.desarrollo {
+  color: #3498db;
+  font-weight: 600;
+  background: rgba(52, 152, 219, 0.1);
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  border-left: 2px solid #3498db;
+  font-size: 0.85rem !important;
+}
+
+/* RESPONSIVE - Para pantallas más pequeñas */
+@media (max-width: 768px) {
+  .footer-content {
+    flex-wrap: wrap; /* Permite múltiples líneas en móviles */
+    gap: 1rem;
+    text-align: center;
+  }
+  
+  .footer-section {
+    flex: 1 1 100%; /* Ocupa toda la línea en móviles */
+    min-width: 100%;
+  }
+  
+  .footer {
+    padding: 1rem 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .footer-content {
+    padding: 0 1rem;
+  }
+  
+  .footer-section p {
+    font-size: 0.8rem;
+  }
+}
+
+/* =====================================
+📖 ESTILOS PARA VER PDF
+===================================== */
+
+/* Enlace en navbar (convertir a enlace) */
+.nav-btn.pdf-btn {
+  display: inline-block;
+  text-decoration: none;
+  text-align: center;
+  background: linear-gradient(135deg, #27ae60, #2ecc71) !important;
+  box-shadow: 0 4px 15px rgba(39, 174, 96, 0.4) !important;
+}
+
+.nav-btn.pdf-btn:hover {
+  background: linear-gradient(135deg, #2ecc71, #27ae60) !important;
+  transform: translateY(-2px) !important;
+  box-shadow: 0 6px 20px rgba(39, 174, 96, 0.6) !important;
+}
+
+/* Enlace en footer */
+.pdf-link {
+  color: #e74c3c !important;
+  font-weight: 600;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  background: rgba(231, 76, 60, 0.1);
+  border-radius: 6px;
+  border: 1px solid rgba(231, 76, 60, 0.3);
+  transition: all 0.3s ease;
+  display: inline-block;
+  margin-top: 0.5rem;
+}
+
+.pdf-link:hover {
+  background: rgba(231, 76, 60, 0.2);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(231, 76, 60, 0.3);
+}
+
+/* Botón en portada */
+.btn-ver-pdf {
+  display: inline-block;
+  background: linear-gradient(135deg, #e67e22, #d35400);
+  color: white;
+  padding: 1rem 2rem;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 1.1rem;
+  box-shadow: 0 6px 20px rgba(230, 126, 34, 0.4);
+  transition: all 0.3s ease;
+  margin: 1.5rem 0;
+}
+
+.btn-ver-pdf:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 30px rgba(230, 126, 34, 0.6);
+  background: linear-gradient(135deg, #d35400, #e67e22);
+}
+
+.size-info {
+  color: #7f8c8d;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}

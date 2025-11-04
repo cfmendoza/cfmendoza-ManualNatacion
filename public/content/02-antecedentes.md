@@ -1,16 +1,10 @@
----
-title: "Antecedentes y Fundamentación"
-type: capitulo
-order: 2
----
-
 # 🏊‍♂️ Capítulo I: Antecedentes y Fundamentación
 
 <div class="portada-seccion">
   <img src="./assets/imagenes/antecedentes.png" alt="Natación universitaria">
 </div>
 
----
+
 
 ## 🌊 Importancia de la Natación en la Formación Universitaria
 
@@ -24,16 +18,16 @@ La enseñanza de la natación ocupa un papel central en la **formación integral
   </ul>
 </div>
 
----
+
 
 ## 🎓 Retos en el Contexto Universitario Santo Tomás
 
 ### 🧍‍♀️ Heterogeneidad de Grupos
 En las clases confluyen estudiantes con distintos niveles de experiencia:
 
-- 👶 **Principiantes**: temor o desconocimiento del medio acuático  
-- 🏊‍♀️ **Intermedios**: comprensión de bases técnicas  
-- 🥇 **Avanzados**: dominio competitivo de los estilos
+ 👶 **Principiantes**: temor o desconocimiento del medio acuático  
+ 🏊‍♀️ **Intermedios**: comprensión de bases técnicas  
+ 🥇 **Avanzados**: dominio competitivo de los estilos
 
 > 💡 Esta diversidad exige metodologías diferenciadas y niveles distintos de acompañamiento técnico y pedagógico.
 
@@ -48,7 +42,7 @@ En las clases confluyen estudiantes con distintos niveles de experiencia:
   </ul>
 </div>
 
----
+
 
 ## 🔬 Evidencia Científica de Problemáticas
 
@@ -77,27 +71,27 @@ En las clases confluyen estudiantes con distintos niveles de experiencia:
   </table>
 </div>
 
----
+
 
 ## 💭 Factores Emocionales y Culturales
 
 ### 😨 Barreras Psicológicas
-- Miedo al agua ligado a experiencias previas negativas  
-- Transmisión de temores familiares  
-- Prejuicios de género o culturales  
-- Bloqueos emocionales que afectan el aprendizaje
+ Miedo al agua ligado a experiencias previas negativas  
+ Transmisión de temores familiares  
+ Prejuicios de género o culturales  
+ Bloqueos emocionales que afectan el aprendizaje
 
-<div class="note elemento-didactico">
+<div class="note elementodidactico">
   <strong>Dato:</strong> Un 20% de los estudiantes universitarios reportan ansiedad al ingresar por primera vez a una piscina profunda.
 </div>
 
 ### 💓 Respuestas Fisiológicas Comunes
-- Aumento de frecuencia cardíaca  
-- Tensión muscular  
-- Bloqueos respiratorios o hiperventilación  
-- Pérdida momentánea de concentración  
+ Aumento de frecuencia cardíaca  
+ Tensión muscular  
+ Bloqueos respiratorios o hiperventilación  
+ Pérdida momentánea de concentración  
 
----
+
 
 ## 📚 Marco Teórico de Referencia
 
@@ -107,7 +101,7 @@ En las clases confluyen estudiantes con distintos niveles de experiencia:
 ### 🚀 Hacia la Innovación
 Se requiere **replantear metodologías**, integrando experiencias **lúdicas, interactivas y personalizadas** que respondan a la diversidad de estudiantes.
 
----
+
 
 <div class="reflexion elemento-didactico">
   <h3>💬 Reflexiona</h3>

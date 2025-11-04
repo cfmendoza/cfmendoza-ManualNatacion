@@ -1,15 +1,9 @@
----
-title: "Introducción"
-type: capitulo
-order: 1
----
-
 # 🏊 Introducción al Manual de Natación
 
 ## 📚 Contexto y Justificación
 
 <div class="contenido-didactico elemento-didactico">
-La enseñanza de la natación en el ámbito universitario constituye un eje fundamental dentro de la formación en **Cultura Física, Deporte y Recreación**. Este deporte no solo desarrolla cualidades motrices, coordinativas y condicionales, sino que también aporta a la construcción de competencias pedagógicas, recreativas y de seguridad acuática indispensables en la labor profesional.
+La enseñanza de la natación en el ámbito universitario constituye un eje fundamental dentro de la formación en Cultura Física, Deporte y Recreación. Este deporte no solo desarrolla cualidades motrices, coordinativas y condicionales, sino que también aporta a la construcción de competencias pedagógicas, recreativas y de seguridad acuática indispensables en la labor profesional.
 </div>
 
 ## ⚠️ Problemática Identificada
@@ -37,9 +31,9 @@ Diversos estudios señalan que entre el <span class="highlight">30% y 40%</span>
 
 En la **Universidad Santo Tomás**, se observó que los estudiantes presentaban los siguientes comportamientos:
 
-- **Primeras sesiones:** 45% mostraba resistencia a ingresar al agua
-- **Coordinación:** 60% tenía dificultades con la respiración lateral en crol
-- **Confianza:** 35% abandonaba el curso en las primeras 3 semanas
+ **Primeras sesiones:** 45% mostraba resistencia a ingresar al agua
+ **Coordinación:** 60% tenía dificultades con la respiración lateral en crol
+ **Confianza:** 35% abandonaba el curso en las primeras 3 semanas
 
 **Solución aplicada:** Implementación de metodologías lúdicas y progresivas que redujeron la deserción al 15%.
 </div>
@@ -61,23 +55,5 @@ En la **Universidad Santo Tomás**, se observó que los estudiantes presentaban 
 <div class="paso"><strong>4. Retroalimentación Constante</strong> - Acompañamiento personalizado</div>
 </div>
 
----
 
-💡 **Sugerencias de mejora visual**:  
 
-- Cada bloque `.paso` podría tener un **fondo suave y sombra ligera** para resaltar los pasos.  
-- Los íconos ayudan a **romper la monotonía textual** y guiar la lectura rápida.  
-- Los bloques `.contenido-didactico`, `.note` y `.ejemplo-practico` son consistentes con tu CSS, pero podemos añadir **colores suaves y bordes redondeados** para mayor atractivo.  
-
----
-
-Si quieres, puedo hacer una **versión final con todos los capítulos `.md` mejorados**, donde cada uno tenga:  
-
-- Bloques didácticos visuales  
-- Íconos y emojis  
-- Listas, tablas o cuadros de ejemplo  
-- Encabezados estilizados  
-
-Esto hará que el flipbook sea **mucho más dinámico y profesional**.  
-
-¿Quieres que haga eso?
