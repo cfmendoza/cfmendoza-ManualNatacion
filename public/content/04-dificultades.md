@@ -74,7 +74,7 @@
 <div class="portada-seccion">
   <img src="./assets/imagenes/estilo-pechob.jpg" alt="Natación universitaria">
 </div>
-### ⚙️ Características Técnicas
+ ⚙️ Características Técnicas
 <div class="contenido-didactico elemento-didactico">
 <strong>Posición:</strong> Decúbito prono, movimientos simétricos  
 <strong>Fases de brazada:</strong> Apertura → Barrido propulsivo → Recobro  
@@ -104,7 +104,7 @@
 <div class="portada-seccion">
   <img src="./assets/imagenes/estilo-espalda.jpg" alt="Natación universitaria">
 </div>
-### ⚙️ Características Técnicas
+ ⚙️ Características Técnicas
 <div class="contenido-didactico elemento-didactico">
  <strong>Posición:</strong> Decúbito supino, mirada al techo  
  <strong>Orientación:</strong> Sin referencia visual directa al frente  
@@ -134,7 +134,7 @@
 <div class="portada-seccion">
   <img src="./assets/imagenes/estilo-mariposa.jpg" alt="Natación universitaria">
 </div>
-### ⚙️ Características Técnicas
+ ⚙️ Características Técnicas
 <div class="contenido-didactico elemento-didactico">
  <strong>Movimiento:</strong> Simultáneo y simétrico de brazos  
  <strong>Patada:</strong> "Batido de delfín" ondulatorio  
