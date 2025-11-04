@@ -32,28 +32,36 @@ El plan debe ser **progresivo**, avanzando de lo simple a lo complejo, considera
 **Causa:** Falta conciencia corporal, debilidad cadera, enseñanza inicial deficiente
 
 <div class="paso-a-paso elemento-didactico">
-<strong>Actividad - "El Pez Rígido":</strong> 
+<strong>Actividad - "El Pez Rígido":</strong>
+<div class="portada-seccion">
+  <img src="./assets/imagenes/pez-rigido.jpg" alt="Natación universitaria">
+</div> 
  Posición horizontal con tabla, patadas suaves sin flexionar rodillas  
  Competencia por tiempo con patada fluida  
  Movimiento correcto: Origen en cadera, rodillas extendidas, pies relajados
 
 **Tarea Docente:**  
- Observación: Extensión rodillas, fluidez, ausencia salpicaduras  
- Retroalimentación: "Ahora siente que el impulso viene desde tu cadera"
+<div class="portada-seccion">
+  <img src="./assets/imagenes/tar-docente.jpg" alt="Natación universitaria">
+</div>
 </div>
 
 #### ⚡ Dificultad 2: Respiración Tardía
 **Causa:** Ansiedad respiratoria, falta de ritmo, desajuste de fases
 
 <div class="paso-a-paso elemento-didactico">
-<strong>Actividad - "Respira con el Delfín":</strong> 
+<strong>Actividad - "Respira con el Delfín":</strong>
+<div class="portada-seccion">
+  <img src="./assets/imagenes/re-delfin.jpg" alt="Natación universitaria">
+</div> 
  Secuencia: 3 brazadas rostro en agua + respiración en 4ta  
  Por parejas para sincronización  
  Movimiento correcto: Giro lateral cabeza, ojo dentro/afuera agua
 
 **Tarea Docente:**  
- Observación: Lateralidad suave, coordinación, exhalación continua  
- Retroalimentación: "Un ojo dentro y otro fuera. Respira cuando brazo pasa cadera"
+ <div class="portada-seccion">
+  <img src="./assets/imagenes/tar-docent.jpg" alt="Natación universitaria">
+</div> 
 </div>
 
 ---
@@ -64,14 +72,18 @@ El plan debe ser **progresivo**, avanzando de lo simple a lo complejo, considera
 **Causa:** Falta control postural, ausencia de referencia visual
 
 <div class="paso-a-paso elemento-didactico">
-<strong>Actividad - "Carril de Presión":</strong>  
+<strong>Actividad - "Carril de Presión":</strong>
+ <div class="portada-seccion">
+  <img src="./assets/imagenes/carril-pres.jpg" alt="Natación universitaria">
+</div>   
  Carriles angostos con tubos, desplazamiento sin tocar laterales  
  Aviso sonoro por entrada fuera línea hombro  
  Movimiento correcto: Brazo extendido, pulgar arriba, entrada recta
 
 **Tarea Docente:**  
- Observación: Relajación cuello/hombros, posición cabeza  
- Retroalimentación: "Confía en tu flotación", "El agua te sostiene"
+<div class="portada-seccion">
+  <img src="./assets/imagenes/tar-docent2.jpg" alt="Natación universitaria">
+</div>
 </div>
 
 ---
@@ -83,13 +95,17 @@ El plan debe ser **progresivo**, avanzando de lo simple a lo complejo, considera
 
 <div class="paso-a-paso elemento-didactico">
 <strong>Actividad - "El Círculo Perfecto":</strong> 
+<div class="portada-seccion">
+  <img src="./assets/imagenes/pecho.jpg" alt="Natación universitaria">
+</div>
  Dibujar círculos con brazos frente al pecho  
  Aros flotantes como límite lateral  
  Movimiento correcto: Tracción controlada, codos altos, manos juntas
 
 **Tarea Docente:**  
- Observación: Límite hombros, posición codos, deslizamiento  
- Retroalimentación: "Manos dibujan corazón, no alas abiertas"
+<div class="portada-seccion">
+  <img src="./assets/imagenes/tar-docent3.jpg" alt="Natación universitaria">
+</div>
 </div>
 
 ---
@@ -101,13 +117,17 @@ El plan debe ser **progresivo**, avanzando de lo simple a lo complejo, considera
 
 <div class="paso-a-paso elemento-didactico">
 <strong>Actividad - "Ejercicio 1-1-1":</strong>  
+<div class="portada-seccion">
+  <img src="./assets/imagenes/ejercicio.jpg" alt="Natación universitaria">
+</div>
  Secuencia: 1 brazo derecho + 1 izquierdo + 1 completo  
  Patada de delfín continua como elemento conectivo  
  Movimiento correcto: Ondulación en cadera, posición hidrodinámica
 
 **Tarea Docente:**  
- Observación: Continuidad patada, coordinación, fluidez  
- Retroalimentación: "La patada nunca se detiene", "Concéntrate en cadera"
+<div class="portada-seccion">
+  <img src="./assets/imagenes/tar-docent4.jpg" alt="Natación universitaria">
+</div>
 </div>
 
 ---

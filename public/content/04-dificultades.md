@@ -4,7 +4,9 @@
 </div>
 
 ## 3.1 Estilo Crol
-
+<div class="portada-seccion">
+  <img src="./assets/imagenes/estilo-crol.jpg" alt="Natación universitaria">
+</div>
 ### ⚙️ Características Técnicas
 <div class="contenido-didactico elemento-didactico">
  <strong>Posición:</strong> Decúbito prono con inclinación ventral  
@@ -69,7 +71,9 @@
 ---
 
 ## 3.2 Estilo Pecho (Braza)
-
+<div class="portada-seccion">
+  <img src="./assets/imagenes/estilo-pechob.jpg" alt="Natación universitaria">
+</div>
 ### ⚙️ Características Técnicas
 <div class="contenido-didactico elemento-didactico">
 <strong>Posición:</strong> Decúbito prono, movimientos simétricos  
@@ -97,7 +101,9 @@
 ---
 
 ## 3.3 Estilo Espalda
-
+<div class="portada-seccion">
+  <img src="./assets/imagenes/estilo-espalda.jpg" alt="Natación universitaria">
+</div>
 ### ⚙️ Características Técnicas
 <div class="contenido-didactico elemento-didactico">
  <strong>Posición:</strong> Decúbito supino, mirada al techo  
@@ -125,7 +131,9 @@
 ---
 
 ## 3.4 Estilo Mariposa
-
+<div class="portada-seccion">
+  <img src="./assets/imagenes/estilo-mariposa.jpg" alt="Natación universitaria">
+</div>
 ### ⚙️ Características Técnicas
 <div class="contenido-didactico elemento-didactico">
  <strong>Movimiento:</strong> Simultáneo y simétrico de brazos  
