@@ -1,0 +1,187 @@
+/* =====================================
+🌊 MANUAL DE NATACIÓN — ESTILOS BASE
+===================================== */
+* {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+body, .page {
+    font-family: "Segoe UI Emoji", "Noto Color Emoji", "Apple Color Emoji", sans-serif;
+}
+
+
+body, h1, h2, h3, div, table {
+    font-family: "Segoe UI Emoji", "Apple Color Emoji", "Noto Color Emoji", sans-serif;
+}
+
+/* ===== BARRA SUPERIOR ===== */
+.topbar {
+  background: rgba(44, 62, 80, 0.95);
+  color: white;
+  padding: 1rem 2rem;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  z-index: 100;
+  position: relative;
+}
+
+.topbar h1 {
+  margin: 0;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+/* ===== LAYOUT PRINCIPAL ===== */
+.layout {
+  display: flex;
+  min-height: calc(100vh - 80px);
+  position: relative;
+}
+
+/* ===== SIDEBAR ===== */
+.sidebar {
+  width: 280px;
+  background: rgba(52, 73, 94, 0.95);
+  color: white;
+  padding: 1.5rem;
+  backdrop-filter: blur(10px);
+  box-shadow: 2px 0 15px rgba(0, 0, 0, 0.2);
+  overflow-y: auto;
+  max-height: calc(100vh - 80px);
+  position: relative;
+  z-index: 90;
+}
+
+.sidebar h2 {
+  color: #3498db;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 0.5rem;
+  margin-top: 0;
+  font-size: 1.3rem;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0 0;
+}
+
+.sidebar li {
+  margin-bottom: 0.5rem;
+}
+
+.sidebar button {
+  width: 100%;
+  padding: 0.8rem 1rem;
+  background: linear-gradient(135deg, #3498db, #2980b9);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  text-align: left;
+  transition: all 0.3s ease;
+  font-size: 0.9rem;
+  box-shadow: 0 2px 8px rgba(52, 152, 219, 0.3);
+  font-weight: 500;
+  position: relative;
+  overflow: hidden;
+}
+
+.sidebar button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(52, 152, 219, 0.4);
+  background: linear-gradient(135deg, #2980b9, #3498db);
+}
+
+.sidebar button.activo {
+  background: linear-gradient(135deg, #e74c3c, #c0392b);
+  box-shadow: 0 4px 15px rgba(231, 76, 60, 0.4);
+  transform: scale(1.03);
+}
+
+.sidebar button.activo::after {
+  content: " 👈";
+}
+
+/* ===== FLIPBOOK CONTAINER ===== */
+#flipbook-container {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem; /* Más espacio alrededor del flipbook */
+  background: rgba(255, 255, 255, 0.05);
+  overflow: hidden;
+}
+
+#flipbook {
+  width: 1000px;    /* Más ancho que antes */
+  height: 650px;    /* Más alto que antes */
+  max-width: 95%;   /* Para que no se desborde en pantallas pequeñas */
+}
+
+#flipbook .page {
+  width: 100%;
+  height: 650px;        /* Igual que flipbook */
+  overflow-y: auto;     
+  position: relative;
+  box-sizing: border-box;
+  padding: 40px;        /* Más espacio interior para el texto */
+  background: #fff;
+  border-radius: 12px;  /* Bordes ligeramente redondeados */
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
+
+/* ===== RESPONSIVE ===== */
+@media (max-width: 1200px) {
+  .layout {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    max-height: 220px;
+    order: 2;
+  }
+
+  #flipbook-container {
+    order: 1;
+    padding: 1rem;
+  }
+
+ #flipbook {
+    width: 95%;
+    height: 600px;
+  }
+  #flipbook .page {
+    height: 600px;
+    padding: 30px;
+  }
+}
+
+@media (max-width: 768px) {
+  #flipbook {
+    width: 100%;
+    height: 500px;
+  }
+  #flipbook .page {
+    height: 500px;
+    padding: 20px;
+    font-size: 0.95rem;
+  }
+
+  .topbar h1 {
+    font-size: 1rem;
+  }
+}

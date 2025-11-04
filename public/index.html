@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Manual de Natación — Libro Interactivo</title>
+  <link rel="icon"
+    href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏊</text></svg>">
+
+  <link rel="stylesheet" href="styles.css" />
+
+</head>
+
+<body>
+  <header class="topbar" role="banner">
+    <h1>Manual Pedagógico: Natación - Fundamentos Teóricos, Dificultades y Estrategias</h1>
+  </header>
+
+  <div class="layout">
+    <aside class="sidebar" role="navigation" aria-label="Navegación por capítulos">
+      <h2>📚 Capítulos del Manual</h2>
+      <ul>
+        <li><button data-ch="1">🏠 Portada</button></li>
+        <li><button data-ch="2">📖 Introducción</button></li>
+        <li><button data-ch="3">🎯 Antecedentes</button></li>
+        <li><button data-ch="4">🧠 Bases Teóricas</button></li>
+        <li><button data-ch="5">⚠️ Dificultades</button></li>
+        <li><button data-ch="6">💡 Estrategias</button></li>
+        <li><button data-ch="7">📊 Planificación</button></li>
+        <li><button data-ch="8">🚀 Recomendaciones</button></li>
+      </ul>
+    </aside>
+
+    <div id="flipbook-container">
+      <div id="flipbook"></div>
+    </div>
+  </div>
+
+  <!-- Librerías -->
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"
+    integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="js/turn.min.js"></script>
+  <script src="main.js"></script>
+</body>
+
+</html>
