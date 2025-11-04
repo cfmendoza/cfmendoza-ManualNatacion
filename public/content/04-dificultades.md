@@ -7,7 +7,7 @@
 <div class="portada-seccion">
   <img src="./assets/imagenes/estilo-crol.jpg" alt="Natación universitaria">
 </div>
-### ⚙️ Características Técnicas
+ ⚙️ Características Técnicas
 <div class="contenido-didactico elemento-didactico">
  <strong>Posición:</strong> Decúbito prono con inclinación ventral  
  <strong>Alineación:</strong> Cuerpo ligeramente inclinado (cintura escapular elevada)  
