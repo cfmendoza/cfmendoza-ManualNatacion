@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   const capitulos = [
     "00-portada.md",
     "01-introduccion.md",
-    "02-antecedentes.md",
+    "02-antecedentes.md", 
     "03-bases-teoricas.md",
     "04-dificultades.md",
     "05-estrategias.md",
@@ -47,15 +47,15 @@ document.addEventListener("DOMContentLoaded", async () => {
     duration: 1000
   });
 
-  // Botones laterales
-  document.querySelectorAll(".sidebar button").forEach((btn, index) => {
+  // 🎯 CAMBIO 1: Botones del menú horizontal
+  document.querySelectorAll(".nav-btn").forEach((btn, index) => {
     btn.addEventListener("click", () => {
       $("#flipbook").turn("page", index + 1);
-      document.querySelectorAll(".sidebar button").forEach(b => b.classList.remove("activo"));
+      document.querySelectorAll(".nav-btn").forEach(b => b.classList.remove("activo"));
       btn.classList.add("activo");
     });
   });
 
-  // Activar portada por defecto
-  document.querySelector(".sidebar button[data-ch='1']").classList.add("activo");
+  // 🎯 CAMBIO 2: Activar portada por defecto en menú horizontal
+  document.querySelector(".nav-btn[data-ch='1']").classList.add("activo");
 });

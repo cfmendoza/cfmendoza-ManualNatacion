@@ -7,31 +7,48 @@
   <title>Manual de Natación — Libro Interactivo</title>
   <link rel="icon"
     href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🏊</text></svg>">
-
   <link rel="stylesheet" href="styles.css" />
 
 </head>
 
 <body>
+  <!-- HEADER CON BANNER -->
   <header class="topbar" role="banner">
-    <h1>Manual Pedagógico: Natación - Fundamentos Teóricos, Dificultades y Estrategias</h1>
+    <div class="banner-container">
+      <img
+        src="https://images.unsplash.com/photo-1560089000-7433a4ebbd64?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=400&q=80"
+        alt="Piscina olímpica" class="banner-image">
+      <h1>Manual Pedagógico: Natación - Fundamentos Teóricos, Dificultades y Estrategias</h1>
+    </div>
+
+    <div class="franja-amarilla">
+      <p>
+        David Felipe Manrique Garzón https://orcid.org/ 0009-0005-9876-1039
+        <br>
+        Ricardo Cubillos Neuta https://orcid.org/ 0009-0000-8960-4158
+      </p>
+    </div>
   </header>
 
-  <div class="layout">
-    <aside class="sidebar" role="navigation" aria-label="Navegación por capítulos">
-      <h2>📚 Capítulos del Manual</h2>
-      <ul>
-        <li><button data-ch="1">🏠 Portada</button></li>
-        <li><button data-ch="2">📖 Introducción</button></li>
-        <li><button data-ch="3">🎯 Antecedentes</button></li>
-        <li><button data-ch="4">🧠 Bases Teóricas</button></li>
-        <li><button data-ch="5">⚠️ Dificultades</button></li>
-        <li><button data-ch="6">💡 Estrategias</button></li>
-        <li><button data-ch="7">📊 Planificación</button></li>
-        <li><button data-ch="8">🚀 Recomendaciones</button></li>
+  <!-- MENÚ HORIZONTAL -->
+  <nav class="navbar-horizontal" role="navigation" aria-label="Navegación por capítulos">
+    <div class="nav-container">
+      <h2 class="nav-title">📚 Capítulos del Manual</h2>
+      <ul class="nav-menu">
+        <li><button data-ch="1" class="nav-btn">🏠 Portada</button></li>
+        <li><button data-ch="2" class="nav-btn">📖 Introducción</button></li>
+        <li><button data-ch="3" class="nav-btn">🎯 Antecedentes</button></li>
+        <li><button data-ch="4" class="nav-btn">🧠 Bases Teóricas</button></li>
+        <li><button data-ch="5" class="nav-btn">⚠️ Dificultades</button></li>
+        <li><button data-ch="6" class="nav-btn">💡 Estrategias</button></li>
+        <li><button data-ch="7" class="nav-btn">📊 Planificación</button></li>
+        <li><button data-ch="8" class="nav-btn">🚀 Recomendaciones</button></li>
       </ul>
-    </aside>
+    </div>
+  </nav>
 
+  <!-- CONTENIDO PRINCIPAL -->
+  <div class="layout">
     <div id="flipbook-container">
       <div id="flipbook"></div>
     </div>
