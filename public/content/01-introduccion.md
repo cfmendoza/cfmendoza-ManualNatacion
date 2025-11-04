@@ -41,7 +41,7 @@ En la **Universidad Santo Tomás**, se observó que los estudiantes presentaban 
 ## 📈 Impacto en el Aprendizaje
 
 <div class="note elemento-didactico">
-<strong>💡 Dato Importante:</strong> Estos factores generan repercusiones directas en la **motivación, confianza personal y adherencia** al proceso formativo. Estudios demuestran que una intervención pedagógica adecuada puede mejorar los resultados en un 70%.
+<strong>💡 Dato Importante:</strong> Estos factores generan repercusiones directas en la <strong>motivación, confianza personal y adherencia</strong> al proceso formativo. Estudios demuestran que una intervención pedagógica adecuada puede mejorar los resultados en un 70%.
 </div>
 
 ### 🎯 Metodología de Intervención Propuesta
